@@ -27,4 +27,4 @@ devamı gelecek...
 
 
 
-[Patika.dev](https://www.patika.dev/tr)
+ [Patika.dev](https://www.patika.dev/tr)
