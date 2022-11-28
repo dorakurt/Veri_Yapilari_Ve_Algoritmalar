@@ -1,10 +1,10 @@
 # Veri Yapıları ve Algoritmalar
----
+
 ## Insertion Sort
----
+
 [22,27,16,2,18,6] -> Insertion Sort
 
-*Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+* Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 ```
 [22,27,16,2,18,6]   (n)
@@ -15,7 +15,7 @@
 
 ---
 
-*Big-O gösterimini yazınız.
+* Big-O gösterimini yazınız.
 
 ```
 Big-O : (n²)
@@ -23,7 +23,7 @@ Big-O : (n²)
 
 ---
 
-*Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+* Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
 -Average case: Aradığımız sayının ortada olması
 -Worst case: Aradığımız sayının sonda olması
