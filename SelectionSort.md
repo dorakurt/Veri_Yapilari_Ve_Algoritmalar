@@ -32,13 +32,11 @@ Big-O : (n²)
 -Best case: Aradığımız sayının dizinin en başında olması.
 
 ```
-
 Average Case: [..,..,..,18,..,..,]
 Worst Case: [..,..,..,..,..,18]
 Best Case: [18,..,..,..,..,..]
 
 -[2,6,16,18,22,27] dizi sıralandığında ortada kalan 18 average case'imizdir.
--
 ```
 
 ---
