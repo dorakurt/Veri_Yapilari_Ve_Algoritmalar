@@ -1,3 +1,3 @@
-Veri_Yapilari_ve_Algoritmalar,
+# Veri_Yapilari_ve_Algoritmalar
 
-Patika.dev ödevleri için oluşturdum.
+## Patika.dev ödevleri için oluşturdum.
